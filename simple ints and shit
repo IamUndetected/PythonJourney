@@ -1,0 +1,5 @@
+user_birth = input("Enter your birth year please: ")
+
+age = 2022 - int(user_birth)
+print("Your age is: ", age)
+
