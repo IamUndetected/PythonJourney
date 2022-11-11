@@ -1,0 +1,11 @@
+patient_record_new = True
+patien_name = "John_Smith"
+patient_age = 20
+
+
+
+if patient_record_new == True:
+    print("Patient does not have a record")
+
+print ("Patient name:", patien_name)
+print ("Patient age:", patient_age)
